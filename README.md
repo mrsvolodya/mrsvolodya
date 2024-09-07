@@ -42,7 +42,7 @@
 <hr/>
 <h3>Full Stack Projects</h3>
 <div align="center">
-  <a href="https://mrsvolodya.github.io/museum-lending" target="_blank" style="text-decoration: none;">
+  <a href="https://mrsvolodya.github.io/museum-lending" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://cdn4.iconfinder.com/data/icons/pixel-perfect-at-24px-volume-2/24/2206-64.png" alt="Museum Project" width="75" height="auto" style="margin: 0 10px;">
   </a>
   <a href="https://mrsvolodya.github.io/phone-catalog" target="_blank" style="text-decoration: none;">
