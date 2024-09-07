@@ -38,13 +38,13 @@
 <p>- 📚  I'm actively working on improving my English skills to better communicate and collaborate in the global tech community.</p>
 <hr/>
 <h3>Full Stack Projects</h3>
- <a href="https://mrsvolodya.github.io/museum-lending" target="_blank" style="display: flex; justify-content: center; align-items: center; text-decoration: none;">
+ <a href="https://mrsvolodya.github.io/museum-lending" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/0ce0d1d3-adc0-4a7f-b536-84f0cd095213" alt="Museum Project" width="75" height="auto">
   </a>
- <a href="https://mrsvolodya.github.io/phone-catalog" target="_blank" style="display: flex; justify-content: center; align-items: center; text-decoration: none;">
+ <a href="https://mrsvolodya.github.io/phone-catalog" target="_blank" style="text-decoration: none;">
     <img src="https://icons.iconarchive.com/icons/martz90/circle/256/phone-icon.png" alt="Phone Catalog" width="75" height="auto">
   </a>
- <a href="https://mrsvolodya.github.io/todo-app/" target="_blank" style="display: flex; justify-content: center; align-items: center; text-decoration: none;">
+ <a href="https://mrsvolodya.github.io/todo-app/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn2.iconfinder.com/data/icons/office-extras/512/Reminder_Note-512.png" alt="Todo App" width="75" height="auto">
   </a>
 <hr/>
