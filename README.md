@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.mrsvolodya.com/">
-    <img src="https://camo.githubusercontent.com/422f0a4a1eb8ef31c7dca2c2f82ea718c40013024f5a5ef078cd9ffff60d2f0a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4877426c46515a4663416f556350485a64582f67697068792e676966" alt="My Website">
+    <img src="https://camo.githubusercontent.com/422f0a4a1eb8ef31c7dca2c2f82ea718c40013024f5a5ef078cd9ffff60d2f0a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4877426c46515a4663416f556350485a64582f67697068792e676966" height="200px" alt="My Website">
   </a>
 </div>
 <div align="center">
