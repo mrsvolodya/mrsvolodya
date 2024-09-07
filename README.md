@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrsvolodya" alt="Profile Views">
 </div>
-<h1 align="center">Hey there, I'm Volodimir 👋</h1>
+<h1 align="center">Hey there, I'm Volodimir [👋](https://camo.githubusercontent.com/d552948e7884c41…a434c467a6361737252346961377a2f67697068792e676966)</h1>
 
  <h3 align="left">🛠️Languages and Tools:</h3>
 
