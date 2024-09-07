@@ -35,10 +35,10 @@
 <hr/>
 <h3>About me:</h3>
 <h4>I am a Full Stack Developer  from Ukraine.:</h4>
-<p>- 🌱 Currently, I'm diving deep into full-stack development at **Mate Academy**.</p>
+<p>- 🌱 Currently, I'm diving deep into full-stack development at <strong>Mate Academy</strong>.</p>
 <p>- 💪 When I'm not coding, you'll find me hitting the gym, striving for that perfect balance between mind and body.</p>
-<p>- 🧩  I enjoy tackling JavaScript challenges on **CodeWars** to sharpen my skills and keep my mind agile.</p>
-<p>- 📚  I'm actively working on improving my English skills to better communicate and collaborate in the global tech community.</p>
+<p>- 🧩  I enjoy tackling <strong>JavaScript</strong> challenges on <strong>CodeWars</strong> to sharpen my skills and keep my mind agile.</p>
+<p>- 📚  I'm actively working on improving my <strong>English</strong> skills to better communicate and collaborate in the global tech community.</p>
 <p">
   📫 How to reach me: 
   <a href="https://www.linkedin.com/in/volodimir-murskyi-b54b45293/" rel="nofollow" style="display: inline-block;">
