@@ -50,6 +50,11 @@
 <table align="center">
   <tr>
     <td>
+      <a href="https://mrsvolodya.github.io/bike-landing/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+        <img src="https://cdn3.iconfinder.com/data/icons/remixicon-map/24/bike-line-256.png" alt="My Bike Project" width="75" height="auto" style="margin: 0;">
+      </a>
+    </td>
+    <td>
       <a href="https://mrsvolodya.github.io/museum-lending" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://cdn4.iconfinder.com/data/icons/pixel-perfect-at-24px-volume-2/24/2206-64.png" alt="Museum Project" width="75" height="auto" style="margin: 0;">
       </a>
