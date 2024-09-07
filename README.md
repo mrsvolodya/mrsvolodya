@@ -68,7 +68,7 @@
 </table>
 <hr/>
 <h3>🔥My GitHub Stats</h3>
-
+<div align="center">
 <a href="https://www.mrsvolodya.com/">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsvolodya&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 100%;" />
 </a>
@@ -76,3 +76,4 @@
 <a href="https://www.mrsvolodya.com/">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsvolodya&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="max-width: 100%;" />
 </a>
+</div>
