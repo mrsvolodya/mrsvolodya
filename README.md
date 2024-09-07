@@ -39,6 +39,12 @@
 <p>- 💪 When I'm not coding, you'll find me hitting the gym, striving for that perfect balance between mind and body.</p>
 <p>- 🧩  I enjoy tackling JavaScript challenges on **CodeWars** to sharpen my skills and keep my mind agile.</p>
 <p>- 📚  I'm actively working on improving my English skills to better communicate and collaborate in the global tech community.</p>
+<p">
+  📫 How to reach me: 
+  <a href="https://www.linkedin.com/in/volodimir-murskyi-b54b45293/" rel="nofollow" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/-mrsvolodya-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="max-width: 100%;">
+  </a>
+</p>
 <hr/>
 <h3>Full Stack Projects</h3>
 <div align="center">
