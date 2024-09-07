@@ -40,7 +40,7 @@
 <p>- 🧩  I enjoy tackling <strong>JavaScript</strong> challenges on <strong>CodeWars</strong> to sharpen my skills and keep my mind agile.</p>
 <p>- 📚  I'm actively working on improving my <strong>English</strong> skills to better communicate and collaborate in the global tech community.</p>
 <p">
-  📫 How to reach me: 
+  - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/volodimir-murskyi-b54b45293/" rel="nofollow" style="display: inline-block;">
     <img src="https://img.shields.io/badge/-mrsvolodya-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="max-width: 100%;">
   </a>
