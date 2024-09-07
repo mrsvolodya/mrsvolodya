@@ -47,17 +47,25 @@
 </p>
 <hr/>
 <h3>Full Stack Projects</h3>
-<div align="center">
-  <a href="https://mrsvolodya.github.io/museum-lending" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdn4.iconfinder.com/data/icons/pixel-perfect-at-24px-volume-2/24/2206-64.png" alt="Museum Project" width="75" height="auto" style="margin: 0 10px;">
-  </a>
-  <a href="https://mrsvolodya.github.io/phone-catalog" target="_blank" style="text-decoration: none;">
-    <img src="https://icons.iconarchive.com/icons/martz90/circle/256/phone-icon.png" alt="Phone Catalog" width="75" height="auto" style="margin: 0 10px;">
-  </a>
-  <a href="https://mrsvolodya.github.io/todo-app/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn2.iconfinder.com/data/icons/office-extras/512/Reminder_Note-512.png" alt="Todo App" width="75" height="auto" style="margin: 0 10px;">
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://mrsvolodya.github.io/museum-lending" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+        <img src="https://cdn4.iconfinder.com/data/icons/pixel-perfect-at-24px-volume-2/24/2206-64.png" alt="Museum Project" width="75" height="auto" style="margin: 0;">
+      </a>
+    </td>
+    <td>
+      <a href="https://mrsvolodya.github.io/phone-catalog" target="_blank" style="text-decoration: none;">
+        <img src="https://icons.iconarchive.com/icons/martz90/circle/256/phone-icon.png" alt="Phone Catalog" width="75" height="auto" style="margin: 0;">
+      </a>
+    </td>
+    <td>
+      <a href="https://mrsvolodya.github.io/todo-app/" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn2.iconfinder.com/data/icons/office-extras/512/Reminder_Note-512.png" alt="Todo App" width="75" height="auto" style="margin: 0;">
+      </a>
+    </td>
+  </tr>
+</table>
 <hr/>
 <h3>🔥My GitHub Stats</h3>
 
