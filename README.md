@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=mrsvolodya" alt="Profile Views">
 </div>
 <h1 align="center">
-  Hey there, I'm Volodimir 
+  Hey there, I'm Volodymyr 
   <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" 
        style="width: 30px; height: auto; vertical-align: middle;"/>
 </h1>
@@ -66,6 +66,11 @@
       </a>
     </td>
     <td>
+      <a https://mrsvolodya.github.io/movies" target="_blank" style="text-decoration: none;">
+        <img src="https://www.svgrepo.com/show/342296/the-movie-database.svg" alt="Todo App" width="75" height="auto" style="margin: 0;">
+      </a>
+    </td>
+    <td>
       <a href="https://mrsvolodya.github.io/phone-catalog" target="_blank" style="text-decoration: none;">
         <img src="https://icons.iconarchive.com/icons/martz90/circle/256/phone-icon.png" alt="Phone Catalog" width="75" height="auto" style="margin: 0;">
       </a>
@@ -78,11 +83,6 @@
     <td>
       <a href="https://mrsvolodya.github.io/2048-game/" target="_blank" style="text-decoration: none;">
         <img src="https://static-00.iconduck.com/assets.00/2048-icon-507x512-ihtslozc.png" alt="Todo App" width="75" height="auto" style="margin: 0;">
-      </a>
-    </td>
-    <td>
-      <a https://mrsvolodya.github.io/movies" target="_blank" style="text-decoration: none;">
-        <img src="https://www.svgrepo.com/show/342296/the-movie-database.svg" alt="Todo App" width="75" height="auto" style="margin: 0;">
       </a>
     </td>
   </tr>
