@@ -47,7 +47,7 @@
 <p>- 📚  I'm actively working on improving my <strong>English</strong> skills to better communicate and collaborate in the global tech community.</p>
 <p">
   - 📫 How to reach me: 
-  <a href="https://www.linkedin.com/in/volodimir-murskyi-b54b45293/" rel="nofollow" style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/volodymyr-murskyi-b54b45293/" rel="nofollow" style="display: inline-block;">
     <img src="https://img.shields.io/badge/-mrsvolodya-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="max-width: 100%;">
   </a>
 </p>
