@@ -66,7 +66,7 @@
       </a>
     </td>
     <td>
-      <a https://mrsvolodya.github.io/movies" target="_blank" style="text-decoration: none;">
+      <a href="https://mrsvolodya.github.io/movies" target="_blank" style="text-decoration: none;">
         <img src="https://www.svgrepo.com/show/342296/the-movie-database.svg" alt="Todo App" width="75" height="auto" style="margin: 0;">
       </a>
     </td>
