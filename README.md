@@ -80,6 +80,11 @@
         <img src="https://static-00.iconduck.com/assets.00/2048-icon-507x512-ihtslozc.png" alt="Todo App" width="75" height="auto" style="margin: 0;">
       </a>
     </td>
+    <td>
+      <a https://mrsvolodya.github.io/movies" target="_blank" style="text-decoration: none;">
+        <img src="https://www.svgrepo.com/show/342296/the-movie-database.svg" alt="Todo App" width="75" height="auto" style="margin: 0;">
+      </a>
+    </td>
   </tr>
 </table>
 <hr/>
