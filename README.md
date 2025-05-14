@@ -51,6 +51,7 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Dark.svg" alt="Cypress" width="40" height="40" title="Cypress"/></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzStv39EpX6DxDT_8K7HZr6ZKxCem07HOiGeJ0nq8W-JS9Mg-R9SQkY2sqeFkebgvOK1A&usqp=CAU" alt="Docker" width="40" height="40"/></td>
     <td><img src="https://desktop.docker.com/extensions/k8slens_lens-dd-extension/k8slens_dev/images/lens-logo-icon.svg" alt="Lens" width="40" height="40"/></td>
+    <td><img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/l3pjty85rgry8gxfpzt1" alt="Ngrok" width="40" height="40"/></td>
   </tr>
 </table>
 <hr/>
