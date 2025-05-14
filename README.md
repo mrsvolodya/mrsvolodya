@@ -41,8 +41,6 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" title="Redux"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/free-sequelize-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-logos-pack-icons-1175002.png" alt="Sequelize" width="40" height="40"/></td>
-    <td><img src="https://repository-images.githubusercontent.com/321867901/758be33a-086d-4cca-b10f-b605138c764d" alt="Prisma" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="Supabase" width="40" height="40" title="Supabase"/></td>
@@ -55,6 +53,8 @@
     <td><img src="https://desktop.docker.com/extensions/k8slens_lens-dd-extension/k8slens_dev/images/lens-logo-icon.svg" alt="Lens" width="40" height="40"/></td>
     <td><img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/l3pjty85rgry8gxfpzt1" alt="Ngrok" width="40" height="40"/></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgeh2WGSoQgM4QUAn7pC4i5nTK73rG0KbmA&s" alt="Stripe" width="40" height="40"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/free-sequelize-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-logos-pack-icons-1175002.png" alt="Sequelize" width="40" height="40"/></td>
+    <td><img src="https://repository-images.githubusercontent.com/321867901/758be33a-086d-4cca-b10f-b605138c764d" alt="Prisma" width="40" height="40"/></td>
   </tr>
 </table>
 <hr/>
