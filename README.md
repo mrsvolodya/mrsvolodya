@@ -107,7 +107,7 @@
     </td>
     <td>
       <a href="https://mrsvolodya.github.io/2048-game/" target="_blank" style="text-decoration: none;">
-        <img src="https://static-00.iconduck.com/assets.00/2048-icon-507x512-ihtslozc.png" alt="Todo App" width="75" height="auto" style="margin: 0;">
+        <img src="https://cdn-icons-png.flaticon.com/512/8476/8476658.png" alt="Todo App" width="75" height="auto" style="margin: 0;">
       </a>
     </td>
   </tr>
