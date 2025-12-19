@@ -72,7 +72,7 @@
   </a>
 </p>
 <hr/>
-<h3>Full Stack Projects</h3>
+<h3>Projects</h3>
 <table align="center">
   <tr>
     <td>
