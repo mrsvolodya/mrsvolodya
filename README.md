@@ -61,7 +61,7 @@
 
 <h3>About me:</h3>
 <h4>I am a Full Stack Developer from Ukraine.:</h4>
-<p>- 🌱  I am Volodymyr. I’m a <strong> Full-stack Developer </strong> with more than 4 years of experience working with cross-functional teams as well as independently.</p>
+<p>- 🌱  I am Volodymyr. I’m a <strong> Full-stack Developer </strong> with more than 6 years of experience working with cross-functional teams as well as independently.</p>
 <p>- 💪 When I'm not coding, you'll find me hitting the gym, striving for that perfect balance between mind and body.</p>
 <p>- 🧩  I enjoy tackling <strong>JavaScript</strong> challenges on <strong>CodeWars</strong> to sharpen my skills and keep my mind agile.</p>
 <p>- 📚  I'm actively working on improving my <strong>English</strong> skills to better communicate and collaborate in the global tech community.</p>
